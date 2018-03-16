@@ -11,6 +11,7 @@ namespace ITI.Work.Tests
         public void yes_we_can()
         {
             var y = new YesWeCan();
+            //test
             y.Work();
         }
 
